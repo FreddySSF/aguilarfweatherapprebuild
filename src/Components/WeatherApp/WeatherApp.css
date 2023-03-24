@@ -1,0 +1,257 @@
+@media only screen and (min-width: 1440px) {
+
+
+
+.CardStyle{
+    height: 300px;
+    width: 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    background-color: rgb(47, 47, 88);
+    color: white;
+}
+
+.CardStyle2{
+    height: 400px;
+    width: 900px;
+    background-color: rgb(47, 47, 88);
+    color: white;
+    margin-top: 25px;
+    
+}
+
+.ButtonRow{
+    display: flex;
+    justify-content: center;
+}
+
+.ButtonStyle{
+    background-color: rgb(47, 47, 88);
+    border-color: rgb(47, 47, 88);
+    font-weight: 700;
+    margin-left: 250px;
+}
+
+.SearchButton{
+    background-color: rgb(47, 47, 88);
+    border-color: skyblue;
+    border-width: 2px;
+    font-weight: 700;
+    margin-left: 40px;
+}
+
+.Container{
+    background-color: lightblue;
+   height: 1100px;
+}
+
+.Center{
+    display: flex;
+    justify-content: center;
+}
+
+.RowSpace{
+    display: flex;
+    justify-content: center;
+}
+
+.FormControl{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.CardText{
+    display: flex;
+    justify-content: center;
+}
+
+.CardText2{
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+}
+
+.CardText3{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.WeatherText{
+    margin-left: 25px;
+}
+
+.NavColor{
+    background-color: rgb(47, 47, 88);
+    color: white;
+}
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1043px) {
+
+    .Container{
+        background-color: lightblue;
+       height: 2600px;
+    }
+
+    .NavColor{
+        background-color: rgb(47, 47, 88);
+        color: white;
+    }
+
+    .FormControl{
+        width: 500px;
+        margin-left: 60px;
+    }
+
+    .SearchButton{
+        background-color: rgb(47, 47, 88);
+        border-color: skyblue;
+        border-width: 2px;
+        font-weight: 700;
+        margin-left: 40px;
+        margin-right: 20px;
+    }
+
+    .CardStyle{
+        display: flex;
+        justify-content: center;
+        height: 300px;
+        width: 800px;
+        margin-left: 50px;
+        margin-right: 155px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        background-color: rgb(47, 47, 88);
+        color: white;
+    }
+
+    .CardText{
+        display: flex;
+        justify-content: center;
+    }
+
+    .CardStyle2{
+        height: 400px;
+        width: 900px;
+        background-color: rgb(47, 47, 88);
+        color: white;
+        margin-top: 25px;
+        
+    }
+
+    .CardText2{
+        display: flex;
+        justify-content: center;
+        margin-top: 65px;
+    }
+
+    .CardText3{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .ButtonStyle{
+        background-color: rgb(47, 47, 88);
+        border-color: rgb(47, 47, 88);
+        font-weight: 700;
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+
+    .ButtonRow{
+        display: flex;
+        justify-content: center;
+    }
+
+    .WeatherText{
+        margin-left: 25px;
+    }
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .Container{
+        background-color: lightblue;
+       height: 2500px;
+    }
+
+    .NavColor{
+        background-color: rgb(47, 47, 88);
+        color: white;
+    }
+
+    .FormControl{
+        width: 500px;
+        margin-left: 60px;
+    }
+
+    .SearchButton{
+        background-color: rgb(47, 47, 88);
+        border-color: skyblue;
+        border-width: 2px;
+        font-weight: 700;
+        margin-left: 40px;
+        margin-right: 20px;
+    }
+
+    .CardStyle{
+        display: flex;
+        justify-content: center;
+        height: 300px;
+        width: 600px;
+        margin-left: 50px;
+        margin-right: 155px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        background-color: rgb(47, 47, 88);
+        color: white;
+    }
+
+    .CardText{
+        display: flex;
+        justify-content: center;
+    }
+
+    .CardStyle2{
+        height: 400px;
+        width: 900px;
+        background-color: rgb(47, 47, 88);
+        color: white;
+        margin-top: 25px;
+        
+    }
+
+    .CardText2{
+        display: flex;
+        justify-content: center;
+        margin-top: 65px;
+    }
+
+    .CardText3{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .ButtonStyle{
+        background-color: rgb(47, 47, 88);
+        border-color: rgb(47, 47, 88);
+        font-weight: 700;
+        margin-left: 70px;
+        margin-top: 10px;
+    }
+
+    .ButtonRow{
+        display: flex;
+        justify-content: center;
+    }
+
+}
