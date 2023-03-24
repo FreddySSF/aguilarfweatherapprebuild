@@ -1,3 +1,5 @@
+Peer review by Madeline G: I like the color choice and organization of information, it fits the general idea of a weather app in my opinion. The addition of separate buttons for 5day forecast and current forecast was interesting, I hadn't considered it but I like it! I don't think the search function works, there doesn't appear to be a functioning favorites list, and there isn't responsiveness after Tablet mode. However, the design works well, and I think the use of geocoding was really good! It's something I didn't implement into my code and it seemed to work very well. Overall, good job!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
